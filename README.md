@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/janakar_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Janakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janakar-kumar-278281190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janakar" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/janakarkumar2139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Janakar" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
