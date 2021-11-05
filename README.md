@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janakar K</h1>
-<h3 align="center">DATA SCIENTIST | WEB DEVELOPER | ENTREPRENEUR</h3>
+<h3 align="center">PROGRAMMER | DEVELOPER | ENTREPRENEUR</h3>
 
 <br>
 <br>
